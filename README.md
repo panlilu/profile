@@ -28,6 +28,7 @@
   +  早期flash应用的制作，包括简单的动画、游戏以及flash整站，可以使用ActionScript
   +  Native app包括 windows应用程序（主要使用Delphi）、 Android应用
   +  版本控制软件svn/git
++  主攻前端
 +  从小学开始的web产品设计制作经验，见证了互联网的成长
 +  对新技术敏锐的嗅觉以及快速学习能力
 +  创造性思维
