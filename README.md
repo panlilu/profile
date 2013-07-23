@@ -44,7 +44,7 @@
 
 +  从设计到产品独立完整制作的能力
   +  产品原型设计绘制，使用photoshop等软件
-  +  后端:php(smarty等框架)/ruby(ruby on rails)/python(web.py，tornado)/aspx/java
+  +  后端:php(ci等框架)/ruby(ruby on rails)/python(web.py，tornado)/aspx/java
   +  前端:html/javascript/css(coffeescript/jquery/scss/less/bootstrap/backbone.js)
   +  有google gae/sina sae/amazon AWS的使用经验
   +  早期flash应用的制作，包括简单的动画、游戏以及flash整站，可以使用ActionScript
